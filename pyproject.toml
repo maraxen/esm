@@ -23,7 +23,6 @@ classifiers = [
 dependencies = [
   "torch>=2.2.0",
   "torchvision",
-  "torchtext",
   "transformers<4.48.2",
   "ipython",
   "einops",
